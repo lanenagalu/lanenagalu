@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body background="imenu.jpg"/>
+   <p><center><font color="MediumVioletRed";font face="Cooper",<font size="20"<p>STUDYGRAM</p></font></font></font>
+<a href="file:///C:/Users/MARIA/Desktop/pag.html/pagina1.html">PRECENTACION</a>
+</body>
+</html>

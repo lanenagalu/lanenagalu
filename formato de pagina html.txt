@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>&aacuteMarcos Horizontales y Verticales</title>
+</head>
+<frameset rows="17%*">
+<frame name=encabezado src="d.m.g.a.html">
+<frameset cols="25%,*">
+<frame name=menu src ="encabezado.html">
+</frameset> 
+<frame name=principal src ="menu.html">
+</frameset> 
+</html>
